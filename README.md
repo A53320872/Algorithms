@@ -1,2 +1,2 @@
 # Algorithms
-LeedCode problems
+LeetCode problems
